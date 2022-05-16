@@ -32,3 +32,5 @@ $(window).scroll(function(){
         nCount(".rect > h1");
     }
 })
+
+console.log("hello")
